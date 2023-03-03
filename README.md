@@ -72,7 +72,7 @@
 | 2/7 | MLOps | `Kubernetes` | 한원배<br>이은비 |
 | 2/8 | MLOps | `AKS`  `AZ CI` | 강두원<br>강정훈 |
 | 2/9 | Jenkins | `Jenkins`  `Docker` `Ubuntu` `Flask` `Git`| 이예진<br>허석현 |
-| 2/10 | MLOps  | `Github`  `Prometheus`  `MLflow`  | 김태형<br>김지성 |
+| 2/10 | MLOps  | `Github Actions`  `Prometheus`  `MLflow`  | 김태형<br>김지성 |
  
  ### [Week 09](./Week_09)
 | 날짜 | 주제 | 학습 내용 | 발표자 |
