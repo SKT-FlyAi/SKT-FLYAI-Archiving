@@ -1,6 +1,6 @@
 
-# ✈ SKT FLY AI CHALLENGER ✈
-- **SKT FLY AI CHALLENGER** 아카이빙 레포
+# ✈ SKT FLY AI CHALLENGER 2nd ✈
+- **SKT FLY AI CHALLENGER 2nd** 아카이빙 레포
 - `2022/12/19` ~ `2023/02/28`
 
 ## 🚀 Curriculum
@@ -28,7 +28,7 @@
 | 1/2 | DNN | `DNN` `Linear Regression` <br> `Binary Classification` `Multiple Classification` | 구미진<br>장준영 | 
 | 1/3 | CNN | `CNN` | 김지성<br>박세현 |
 | 1/4 | Multi Classification | `CNN` `Data Augmentation` | 이예진 | 
-| 1/5 | Object Detection | `CNN` `YOLOv5`            | 김태형<br>강두원 |
+| 1/5 | Object Detection | `CNN` `YOLOv5` | 김태형<br>강두원 |
 | 1/6 | RNN | `RNN` | 이은비<br>강정훈 |
 
 ### [Week 04](./Week_04)
@@ -61,24 +61,24 @@
 | :---: | :--- | :--- | :---: |
 | 1/30 | 챗봇 | `Chatbot` `Docker` | 김지성<br>김태형|
 | 1/31 | 챗봇 |`Chatbot` `Docker` `SQL` `Flask` `Ubuntu`| 강정훈 <br> 장준영  |
-| 2/1 | 챗봇 |  `Chatbot` `Docker` `flask` `Ubuntu` | 이예진<br>박세현 |
+| 2/1 | 챗봇 | `Chatbot` `Docker` `flask` `Ubuntu` | 이예진<br>박세현 |
 | 2/2 | 디지털 영상처리(`OpenCV`) | `화소처리` `히스토그램` `영역처리` | 구미진<br>한원배 |
-| 2/3 |  |  | 강두원<br>이은비 | 
+| 2/3 | 디지털 영상처리(`OpenCV`) | `에지 검출` `필터링` `모폴로지` | 강두원<br>이은비 | 
  
  ### [Week 08](./Week_08)
 | 날짜 | 주제 | 학습 내용 | 발표자 |
 | :---: | :--- | :--- | :---: |
 | 2/6 | MLOps | `Hyper-v` 가상머신 실습 <br> `Docker`  | 박세현<br>구미진<br>장준영 |
-| 2/7 |  |  | 한원배<br>이은비 |
-| 2/8 | AKS, AZ CI|  | 강두원<br>강정훈 |
+| 2/7 | MLOps | `Kubernetes` | 한원배<br>이은비 |
+| 2/8 | MLOps | `AKS`  `AZ CI` | 강두원<br>강정훈 |
 | 2/9 | Jenkins | `Jenkins`  `Docker` `Ubuntu` `Flask` `Git`| 이예진<br>허석현 |
-| 2/10 |  |  | 김태형<br>김지성 |
+| 2/10 | MLOps  | `Github`  `Prometheus`  `MLflow`  | 김태형<br>김지성 |
  
  ### [Week 09](./Week_09)
 | 날짜 | 주제 | 학습 내용 | 발표자 |
 | :---: | :--- | :--- | :---: |
 | 2/13 | MLOps | `Azure Machine Learning` | 구미진<br>한원배 |
-| 2/14 |  |  | 이은비<br>장준영 |
-| 2/15 |  |  | 강두원<br>박세현 |
-| 2/16 |  |  | 강정훈<br>허석현 |
-| 2/17 |  |  | 이예진<br>김지성 |
+| 2/14 |  | `Microsoft cognitive service` | 이은비<br>장준영 |
+| 2/15 |  | `Conversational language understanding` | 강두원<br>박세현 |
+| 2/16 |  | `PyTorch` | 강정훈<br>허석현 |
+| 2/17 |  | `MMDetection` | 이예진<br>김지성 |
