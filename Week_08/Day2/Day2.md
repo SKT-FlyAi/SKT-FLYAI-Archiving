@@ -54,7 +54,7 @@ minikube status #확인
     - 대부분 하나의 Pod는 하나의 컨테이너가 구성되어 있음 (→ 한 Pod를 컨테이너로 생각해도 됨)
 - 외부에서 연결하기 위해 포트포워딩이 필요함(pod는 `외부 노출 x`)
 - `언제든지 삭제될 수 있다'는 가정 하에 만들어진 개념
-- 
+
 
 ```bash
 kubectl run nginx --image nginx --port=8080
